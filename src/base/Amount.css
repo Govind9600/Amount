@@ -1,0 +1,28 @@
+.inputcontrol {
+  height: 20%;
+  border: 1px solid black;
+}
+.outputcontrol {
+  margin-top: 20px;
+  border: 1px solid black;
+}
+.Active {
+  display: none;
+}
+.Btn_Add {
+  margin-right: 10px;
+  background: cornflowerblue;
+  border-radius: 4px;
+  color: #ffffff;
+  padding: 4px;
+}
+.btncontrol {
+  padding-bottom: 17px;
+  padding-top: 17px;
+}
+.Btn_Remove {
+  background: cornflowerblue;
+  border-radius: 4px;
+  color: #ffffff;
+  padding: 4px;
+}
